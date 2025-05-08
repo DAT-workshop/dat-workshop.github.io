@@ -20,6 +20,14 @@ body {
     color: white;
     padding: 1rem 2rem;
   }
+
+  .boxCfp {
+    border: 1px solid #a0a9f8; 
+    padding: 10px 10px 1px 25px; 
+    margin: 30px;
+    border-radius: 5px; 
+    background-color: rgba(10, 10, 35, 0.2);
+  }
   
   /* Navigation */
   nav a,
